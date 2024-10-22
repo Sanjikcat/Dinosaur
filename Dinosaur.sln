@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dinosaur", "Dinosaur.vcxproj", "{0CBA2049-BE28-4142-8553-5E95A45C120F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DinoSETUPs", "..\DinoSETUPs\DinoSETUPs.vdproj", "{0CD8D9C3-028F-44A3-8E72-3A33ABE95C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Debug|x64.ActiveCfg = Debug|x64
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Debug|x64.Build.0 = Debug|x64
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Debug|x86.Build.0 = Debug|Win32
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Release|x64.ActiveCfg = Release|x64
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Release|x64.Build.0 = Release|x64
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Release|x86.ActiveCfg = Release|Win32
+		{0CBA2049-BE28-4142-8553-5E95A45C120F}.Release|x86.Build.0 = Release|Win32
+		{0CD8D9C3-028F-44A3-8E72-3A33ABE95C8B}.Debug|x64.ActiveCfg = Debug
+		{0CD8D9C3-028F-44A3-8E72-3A33ABE95C8B}.Debug|x86.ActiveCfg = Debug
+		{0CD8D9C3-028F-44A3-8E72-3A33ABE95C8B}.Release|x64.ActiveCfg = Release
+		{0CD8D9C3-028F-44A3-8E72-3A33ABE95C8B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA413DFC-2974-4D02-A8AF-AE89F03FDAE6}
+	EndGlobalSection
+EndGlobal
